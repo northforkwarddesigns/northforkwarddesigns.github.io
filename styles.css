@@ -1,22 +1,1608 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-    background-color: #f4f4f4;
+@charset "utf-8";
+	.NormalCharacterStyle1
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
 }
-
-#content {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
+.NormalCharacterStyle3
+{
+	font-family : Minion Pro;
+	font-size : 10px;
+	line-height : 0.15px;
+	letter-spacing : 0.09px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
 }
-
-iframe {
-    width: 100%;
-    height: 600px;
-    border: none;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+.NormalCharacterStyle2
+{
+	font-family : Minion Pro;
+	font-size : 10px;
+	line-height : 0.15px;
+	letter-spacing : -0.04px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle4
+{
+	font-family : Minion Pro;
+	font-size : 10px;
+	line-height : 0.15px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.st0
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 243px;
+	width : 128px;
+	height : 27px;
+}
+.st1
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 165px;
+	top : 215px;
+	width : 194px;
+	height : 0px;
+}
+.st2
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 357px;
+	width : 128px;
+	height : 27px;
+}
+.st3
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 300px;
+	width : 128px;
+	height : 27px;
+}
+.st4
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 165px;
+	top : 243px;
+	width : 194px;
+	height : 27px;
+}
+.image11
+{
+	background-image : url(image11.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 442px;
+	top : 128px;
+	width : 305px;
+	height : 258px;
+}
+.st5
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 165px;
+	top : 329px;
+	width : 194px;
+	height : 27px;
+}
+.st6
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 271px;
+	width : 128px;
+	height : 0px;
+}
+.st7
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 165px;
+	top : 215px;
+	width : 194px;
+	height : 27px;
+}
+.st8
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 165px;
+	top : 243px;
+	width : 194px;
+	height : 27px;
+}
+.st9
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 215px;
+	width : 128px;
+	height : 27px;
+}
+.st10
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 165px;
+	top : 357px;
+	width : 194px;
+	height : 27px;
+}
+.st11
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 165px;
+	top : 271px;
+	width : 194px;
+	height : 27px;
+}
+.st12
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 329px;
+	width : 128px;
+	height : 27px;
+}
+.st13
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 165px;
+	top : 300px;
+	width : 194px;
+	height : 27px;
+}
+.st14
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 271px;
+	width : 128px;
+	height : 27px;
+}
+.st15
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 271px;
+	width : 128px;
+	height : 0px;
+}
+.st16
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 165px;
+	top : 187px;
+	width : 194px;
+	height : 27px;
+}
+.st17
+{
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 442px;
+	top : 539px;
+	width : 302px;
+	height : 19px;
+}
+.st18
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 215px;
+	width : 128px;
+	height : 0px;
+}
+.st19
+{
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 691px;
+	top : 505px;
+	width : 0px;
+	height : 71px;
+}
+.st20
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 95px;
+	width : 324px;
+	height : 20px;
+}
+.st21
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 165px;
+	top : 244px;
+	width : 0px;
+	height : 0px;
+}
+.st22
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 496px;
+	width : 129px;
+	height : 20px;
+}
+.st23
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 456px;
+	width : 324px;
+	height : 34px;
+}
+.st24
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : -286px;
+	top : 0px;
+	width : 246px;
+	height : 612px;
+}
+.st25
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : 339px;
+	top : 705px;
+	width : 118px;
+	height : 62px;
+}
+.st26
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 166px;
+	top : 496px;
+	width : 193px;
+	height : 20px;
+}
+.st27
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 429px;
+	width : 324px;
+	height : 20px;
+}
+.st28
+{
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 442px;
+	top : 559px;
+	width : 302px;
+	height : 19px;
+}
+.st29
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 187px;
+	width : 128px;
+	height : 27px;
+}
+.st30
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 215px;
+	width : 128px;
+	height : 0px;
+}
+.st31
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 538px;
+	width : 129px;
+	height : 20px;
+}
+.st32
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 517px;
+	width : 129px;
+	height : 20px;
+}
+.st33
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : 458px;
+	top : -284px;
+	width : 270px;
+	height : 270px;
+}
+.st34
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 36px;
+	top : 54px;
+	width : 324px;
+	height : 20px;
+}
+.st35
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 166px;
+	top : 538px;
+	width : 193px;
+	height : 20px;
+}
+.st36
+{
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 442px;
+	top : 502px;
+	width : 302px;
+	height : 18px;
+}
+.st37
+{
+	background : #434343;
+	background : rgba(67, 67, 67, 1);
+	position : absolute ;
+	left : -311px;
+	top : 126px;
+	width : 270px;
+	height : 270px;
+}
+.st38
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 166px;
+	top : 517px;
+	width : 193px;
+	height : 20px;
+}
+.st39
+{
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 442px;
+	top : 520px;
+	width : 302px;
+	height : 19px;
+}
+.st40
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 165px;
+	top : 215px;
+	width : 194px;
+	height : 0px;
+}
+.st41
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 1388px;
+	top : 385px;
+	width : 15px;
+	height : 0px;
+}
+.image12
+{
+	background-image : url(image12.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1332px;
+	top : 86px;
+	width : 134px;
+	height : 19px;
+}
+.st42
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : 1379px;
+	top : -145px;
+	width : 32px;
+	height : 143px;
+}
+.st43
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 1388px;
+	top : 290px;
+	width : 15px;
+	height : 0px;
+}
+.st44
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 1388px;
+	top : 523px;
+	width : 15px;
+	height : 0px;
+}
+.st45
+{
+	background : #434343;
+	background : rgba(67, 67, 67, 1);
+	position : absolute ;
+	left : 0px;
+	top : -635px;
+	width : 395px;
+	height : 610px;
+}
+.st46
+{
+	background : #434343;
+	background : rgba(67, 67, 67, 1);
+	position : absolute ;
+	left : 394px;
+	top : -623px;
+	width : 396px;
+	height : 610px;
+}
+.st47
+{
+	background : #434343;
+	background : rgba(67, 67, 67, 1);
+	position : absolute ;
+	left : 812px;
+	top : -623px;
+	width : 396px;
+	height : 610px;
+}
+.st48
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 38px;
+	position : absolute ;
+	left : 16px;
+	top : 17px;
+	width : 759px;
+	height : 578px;
+}
+.st49
+{
+	position : absolute ;
+	left : 812px;
+	top : -35px;
+	width : 776px;
+	height : 612px;
+}
+.st50
+{
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 38px;
+	position : absolute ;
+	left : 829px;
+	top : 16px;
+	width : 759px;
+	height : 578px;
+}
+.image9
+{
+	background-image : url(image9.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 459px;
+	top : 124px;
+	width : 270px;
+	height : 270px;
+}
+.image1
+{
+	background-image : url(image1.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 458px;
+	top : 126px;
+	width : 270px;
+	height : 270px;
+}
+.image8
+{
+	background-image : url(image8.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 459px;
+	top : 126px;
+	width : 270px;
+	height : 270px;
+}
+.image2
+{
+	background-image : url(image2.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 458px;
+	top : 126px;
+	width : 270px;
+	height : 270px;
+}
+.image10
+{
+	background-image : url(image10.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 455px;
+	top : 120px;
+	width : 276px;
+	height : 276px;
+}
+.image6
+{
+	background-image : url(image6.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 459px;
+	top : 89px;
+	width : 269px;
+	height : 340px;
+}
+.image4
+{
+	background-image : url(image4.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 456px;
+	top : 126px;
+	width : 274px;
+	height : 274px;
+}
+.image7
+{
+	background-image : url(image7.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 459px;
+	top : 127px;
+	width : 270px;
+	height : 270px;
+}
+.image
+{
+	background-image : url(image.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 458px;
+	top : 126px;
+	width : 271px;
+	height : 271px;
+}
+.image3
+{
+	background-image : url(image3.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 460px;
+	top : 127px;
+	width : 270px;
+	height : 270px;
+}
+.image5
+{
+	background-image : url(image5.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 460px;
+	top : 127px;
+	width : 267px;
+	height : 267px;
+}
+.NormalCharacterStyle8
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : -0.37px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle7
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : -0.25px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle12
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle13
+{
+	font-family : Minion Pro;
+	font-size : 9px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle9
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle10
+{
+	font-family : Minion Pro;
+	font-size : 9px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle11
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle35
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle29
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle23
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle37
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle38
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle34
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle18
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle21
+{
+	font-family : Minion Pro;
+	font-size : 9px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle25
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle19
+{
+	font-family : Minion Pro;
+	font-size : 9px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle15
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle20
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle22
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : -0.13px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle27
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle36
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle17
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle24
+{
+	font-family : Minion Pro;
+	font-size : 9px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle31
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle14
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle30
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	text-outline : #231F20;
+	text-outline : rgb(35, 31, 32);
+}
+.NormalCharacterStyle32
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle26
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle28
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	text-outline : #231F20;
+	text-outline : rgb(35, 31, 32);
+}
+.NormalCharacterStyle33
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	text-outline : #231F20;
+	text-outline : rgb(35, 31, 32);
+}
+.NormalCharacterStyle16
+{
+	font-family : Minion Pro;
+	font-size : 9px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle52
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle51
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle53
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle55
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle56
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle59
+{
+	font-family : Minion Pro;
+	font-size : 14px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle47
+{
+	font-family : Minion Pro;
+	font-size : 13px;
+	letter-spacing : 1px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle40
+{
+	font-family : Minion Pro;
+	font-size : 11px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle41
+{
+	font-family : Minion Pro;
+	font-size : 11px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle43
+{
+	font-family : Minion Pro;
+	font-size : 11px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle48
+{
+	font-family : Minion Pro;
+	font-size : 23px;
+	letter-spacing : 1.93px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle50
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle58
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle42
+{
+	font-family : Minion Pro;
+	font-size : 11px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle57
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle46
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.46px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle49
+{
+	font-family : Minion Pro;
+	font-size : 16px;
+	letter-spacing : 3.14px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle39
+{
+	font-family : Minion Pro;
+	font-size : 11px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle45
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	text-outline : #231F20;
+	text-outline : rgb(35, 31, 32);
+}
+.NormalCharacterStyle44
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle54
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle72
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle61
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : 0.01px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle66
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle69
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle75
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : 0.01px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle64
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.2px;
+	letter-spacing : 0.01px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle60
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : -0.31px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle76
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle78
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.2px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle73
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.2px;
+	letter-spacing : 0.01px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle77
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.2px;
+	letter-spacing : 0.01px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle71
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.2px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle67
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle63
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle65
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.38px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle74
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.38px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle70
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.2px;
+	letter-spacing : 0.01px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle62
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle68
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : 0.01px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle86
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.2px;
+	letter-spacing : 0.01px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle85
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle87
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.38px;
+	letter-spacing : 0.05px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle80
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : -0.38px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle84
+{
+	font-family : Minion Pro;
+	font-size : 14px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle79
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle88
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle81
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.2px;
+	letter-spacing : -0.37px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle83
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle82
+{
+	font-family : Minion Pro;
+	font-size : 18px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle94
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle103
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : -0.1px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle102
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle101
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle89
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.2px;
+	letter-spacing : 0.01px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle93
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.38px;
+	letter-spacing : 0.05px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle98
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.2px;
+	letter-spacing : 0.01px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle97
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle100
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle96
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.38px;
+	letter-spacing : 0.05px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle91
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle92
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.2px;
+	letter-spacing : 0.01px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle95
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.2px;
+	letter-spacing : 0.01px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle90
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.38px;
+	letter-spacing : 0.05px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle99
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	line-height : 0.38px;
+	letter-spacing : 0.05px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle117
+{
+	font-family : Minion Pro;
+	font-size : 14px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle111
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : 0.23px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle116
+{
+	font-family : Minion Pro;
+	font-size : 14px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle114
+{
+	font-family : Minion Pro;
+	font-size : 13px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle108
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : -0.24px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle112
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle106
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : -0.31px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle105
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : -0.31px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle107
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle109
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : -0.19px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle104
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : -0.31px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle110
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle115
+{
+	font-family : Minion Pro;
+	font-size : 14px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle113
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	letter-spacing : -0.86px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle5
+{
+	font-family : Minion Pro;
+	font-size : 12px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle6
+{
+	font-family : Minion Pro;
+	font-size : 9px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
 }
